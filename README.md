@@ -248,7 +248,7 @@ Fungsi erosi:
 ![Hasil Erosi](screenshots/3_perbandingan_biner_erosi.png)
 ```
 
-![Hasil Erosi](screenshots/3_perbandingan_biner_erosi.png)
+![Hasil Erosi](https://github.com/NadhiaShafira/pengolahan_citra_morfologi/blob/5a05b581b4be5a1941d5b22ee39a0358cb338523/screenshots_morfologi/3_perbandingan_biner_erosi.png)
 
 ---
 
