@@ -277,7 +277,7 @@ Fungsi dilasi:
 ![Hasil Dilasi](screenshots/4_perbandingan_biner_dilasi.png)
 ```
 
-![Hasil Dilasi](screenshots/4_perbandingan_biner_dilasi.png)
+![Hasil Dilasi](https://github.com/NadhiaShafira/pengolahan_citra_morfologi/blob/d67d37ad85af4cde0007d53f4fd5051d03b81a87/screenshots_morfologi/4_perbandingan_biner_dilasi.png)
 
 ---
 
