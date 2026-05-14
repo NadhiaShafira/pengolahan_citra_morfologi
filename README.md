@@ -187,7 +187,7 @@ Konversi grayscale dilakukan karena operasi morfologi lebih efektif digunakan pa
 ![Grayscale](screenshots/2_grayscale.png)
 ```
 
-![Grayscale](screenshots/2_grayscale.png)
+![Grayscale](https://github.com/NadhiaShafira/pengolahan_citra_morfologi/blob/192023e82c1165aaa435c479bea841dc914ef32f/screenshots_morfologi/2_grayscale.png)
 
 ---
 
